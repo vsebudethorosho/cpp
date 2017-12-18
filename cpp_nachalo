@@ -1,0 +1,6 @@
+//nachalo
+int main()
+{
+caunt << "Hello World\n";
+return 0;
+}
